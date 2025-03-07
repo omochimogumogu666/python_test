@@ -63,3 +63,12 @@
 2025-03-08 01:21:51,325 - INFO - Current time: 2025-03-08 01:21:51
 2025-03-08 01:21:52,260 - WARNING - Could not find stock status element on the page
 2025-03-08 01:21:52,260 - INFO - Product is not in stock yet. Will check again later.
+2025-03-08 01:24:06,432 - INFO - Running stock check...
+2025-03-08 01:24:06,445 - INFO - Current time: 2025-03-08 01:24:06
+2025-03-08 01:24:07,510 - WARNING - Could not find stock status element on the page
+2025-03-08 01:24:07,510 - INFO - Product is not in stock yet. Will check again later.
+2025-03-08 01:25:00,751 - INFO - Stock monitoring service stopped by user
+2025-03-08 01:29:07,627 - INFO - Running stock check...
+2025-03-08 01:29:07,649 - INFO - Current time: 2025-03-08 01:29:07
+2025-03-08 01:29:08,568 - WARNING - Could not find stock status element on the page
+2025-03-08 01:29:08,568 - INFO - Product is not in stock yet. Will check again later.
